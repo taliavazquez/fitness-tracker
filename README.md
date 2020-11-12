@@ -1,5 +1,5 @@
 # fitness-tracker
-![demo](./public/assets/demo.png)
+![demo](./public/demo.png)
 ## Description and Usage:
 This App will help you track your workouts and help you keep track. Installing this to your local computer will allow you to keep your stats private and will stay on your local storage.
 ## Run
